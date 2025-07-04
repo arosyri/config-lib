@@ -1,3 +1,4 @@
+![CI](https://github.com/arosyri/config-lib/actions/workflows/ci.yml/badge.svg)
 # ConfigLib
 
 **ConfigLib** — це Python-бібліотека для роботи з конфігураційними файлами у форматах **YAML** та **JSON**, з підтримкою валідації на основі **JSON Schema**.
