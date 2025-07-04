@@ -56,6 +56,9 @@ PYTHONPATH=. pytest
 ##  CI / GitHub Actions
 Автоматичний запуск `pytest` при кожному push та pull request.
 
+## Design Document
+Документ з архітектурою, плануванням та описом знаходиться у гілці main, назва - ConfigLib Design Document
+
 ## Автор
 
 Каріна Корчова(IM-34)
